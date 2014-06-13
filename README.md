@@ -1,4 +1,5 @@
 NPU
 ===
 
-Network Processing Unit, a.k.a. Network processor.
+Network Processing Unit, a.k.a. Network Processor (NP).
+
